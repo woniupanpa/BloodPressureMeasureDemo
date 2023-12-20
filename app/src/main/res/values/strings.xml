@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">血压</string>
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="please_wear_the_watch">请佩戴手表保持静止</string>
+    <string name="today_heart_rate">今日心率1</string>
+    <string name="today_heart_rate_page_2">今日心率3</string>
+    <string name="blood_pressure">血压</string>
+    <string name="update_time">更新时间: </string>
+    <string name="mmhg">mmHg</string>
+    <string name="measuring">正在测量...</string>
+</resources>
